@@ -122,6 +122,9 @@ P99 = 91 ms: 99% yêu cầu có thời gian phản hồi không vượt quá 91 
 
 Các phân vị cho thấy phần lớn yêu cầu có thời gian phản hồi thấp. Tuy nhiên, thời gian phản hồi lớn nhất đạt 1.180 ms, cho thấy vẫn có một số yêu cầu chậm hơn đáng kể so với mức trung bình.
 
+<img width="1483" height="824" alt="image" src="https://github.com/user-attachments/assets/81036333-48b8-4239-8772-9c5dbe0787fd" />
+
+
 ## 5. Kết luận
 
 Qua bài thực hành, em đã biết cách xây dựng kịch bản kiểm thử bằng Apache JMeter, cấu hình Thread Group, gửi yêu cầu HTTP GET và sử dụng View Results Tree cùng Aggregate Report để theo dõi kết quả.
