@@ -120,21 +120,21 @@ Error rate
 
 
 
-4. Phân tích kết quả kiểm tra
+## 4. Phân tích kết quả kiểm tra
 
-4.1. Số lượng yêu cầu
+### 4.1. Số lượng yêu cầu
 
 JMeter ghi nhận tổng cộng 2.217 yêu cầu trong lần kiểm thử. Đây là số lượng yêu cầu thực tế được ghi nhận trong khoảng thời gian chạy 30 giây với 5 người dùng ảo.
 
-4.2. Tỷ lệ lỗi
+### 4.2. Tỷ lệ lỗi
 
 Tỷ lệ lỗi ghi nhận là 0,00%, cho thấy không có yêu cầu nào bị đánh dấu lỗi trong báo cáo tổng hợp của lần kiểm thử này.
 
-4.3. Thời gian phản hồi
+### 4.3. Thời gian phản hồi
 
 Thời gian phản hồi trung bình là 62 ms và thời gian phản hồi trung vị là 59 ms. Hai chỉ số cho thấy phần lớn yêu cầu được xử lý trong khoảng thời gian tương đối ngắn ở điều kiện thử nghiệm này.
 
-4.4. Phân tích các phân vị
+### 4.4. Phân tích các phân vị
 
 P90 = 68 ms: 90% yêu cầu có thời gian phản hồi không vượt quá 68 ms.
 
@@ -144,7 +144,7 @@ P99 = 91 ms: 99% yêu cầu có thời gian phản hồi không vượt quá 91 
 
 Các phân vị cho thấy phần lớn yêu cầu có thời gian phản hồi thấp. Tuy nhiên, thời gian phản hồi lớn nhất đạt 1.180 ms, cho thấy vẫn có một số yêu cầu chậm hơn đáng kể so với mức trung bình.
 
-5. Kết luận
+## 5. Kết luận
 
 Qua bài thực hành, em đã biết cách xây dựng kịch bản kiểm thử bằng Apache JMeter, cấu hình Thread Group, gửi yêu cầu HTTP GET và sử dụng View Results Tree cùng Aggregate Report để theo dõi kết quả.
 
