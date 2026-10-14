@@ -78,45 +78,23 @@ Kết quả cho thấy yêu cầu được chọn đã nhận phản hồi HTTP 
 
 Kết quả tổng hợp từ lần chạy kiểm thử:
 
-Metric
+Total requests: 2.217
 
-Value
+Average response time: 62 ms
 
-Total requests
+Median response time: 59 ms
 
-2.217
+90th percentile response time: 68 ms
 
-Average response time
+95th percentile response time: 74 ms
 
-62 ms
+99th percentile response time: 91 ms
 
-Median response time
+Minimum response time: 51 ms
 
-59 ms
+Maximum response time: 1.180 ms
 
-90th percentile response time
-
-68 ms
-
-95th percentile response time
-
-74 ms
-
-99th percentile response time
-
-91 ms
-
-Minimum response time
-
-51 ms
-
-Maximum response time
-
-1.180 ms
-
-Error rate
-
-0,00%
+Error rate: 0,00%
 
 
 
