@@ -72,6 +72,8 @@ Error Count: 0.
 
 Kết quả cho thấy yêu cầu được chọn đã nhận phản hồi HTTP 200 và không ghi nhận lỗi.
 
+<img width="1442" height="823" alt="image" src="https://github.com/user-attachments/assets/dd4b2ca2-d343-4c2d-8c6a-b128f9dc59d8" />
+
 
 
 ### 3.2. Kết quả Aggregate Report
@@ -95,6 +97,9 @@ Minimum response time: 51 ms
 Maximum response time: 1.180 ms
 
 Error rate: 0,00%
+
+<img width="1484" height="824" alt="image" src="https://github.com/user-attachments/assets/05f01136-a573-468e-b2f4-85e2946fce4a" />
+
 
 
 
@@ -122,7 +127,6 @@ P99 = 91 ms: 99% yêu cầu có thời gian phản hồi không vượt quá 91 
 
 Các phân vị cho thấy phần lớn yêu cầu có thời gian phản hồi thấp. Tuy nhiên, thời gian phản hồi lớn nhất đạt 1.180 ms, cho thấy vẫn có một số yêu cầu chậm hơn đáng kể so với mức trung bình.
 
-<img width="1483" height="824" alt="image" src="https://github.com/user-attachments/assets/81036333-48b8-4239-8772-9c5dbe0787fd" />
 
 
 ## 5. Kết luận
